@@ -1,0 +1,17 @@
+.header {
+    flex: 1 1 auto;
+    background-color: #213347;
+  }
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    max-height: 40px;
+    margin-left: 15px;
+}
+
+  
